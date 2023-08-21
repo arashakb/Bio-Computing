@@ -7,7 +7,7 @@ The problem of n ministers or n queens tries to arrange n ministers on the n * n
 <img src="https://github.com/arashakb/Bio-Computing/assets/29708122/4f98551b-9ed3-4812-8a9f-a565d5b9b8ed" width="380">
 </div>
 
-### Problem 2 (scoring) 
+### Problem 2 (Optional) 
 In the TSP problem with the Traveling salesman problem, we assume that the salesman wants to visit n cities exactly once and return to the starting point. In what order should he visit the cities in order to travel the shortest distance? Genetics, develop an algorithm that by receiving the geographical location of cities, can find a sequence of cities that leads to traveling the shortest distance. Similar to the previous question, provide an explanation of your code and algorithm and mention your reasons for choosing your methods. To test your algorithm, use the two attached files and report the results. Also, save the best result in each generation and draw the optimization diagram at the end of the simulation. Your code should reach the distance of 2800 for example gr229.tsp and 1600000 for pr1002.tsp. Note that you should implement it with Python and in Jupyter notebook or with C++. Points will be awarded to the best answers for each example. You are allowed to use algorithms developed based on genetic algorithm to improve your algorithm.
 
 <div align="center">
