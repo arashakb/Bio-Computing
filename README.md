@@ -1,4 +1,4 @@
-# Bio-Computing
+# N-Queen and TSP Solved with Genetic Algorithm
 Computer Assignments of "Bio-Computing" at University of Tehran
 
 ### Problem 1. 
